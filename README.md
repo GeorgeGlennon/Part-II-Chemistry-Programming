@@ -1,6 +1,6 @@
 # Part-II-Chemistry-Programming
 This program calculates the Huckel energies of specific SP2 polyene molecules by solving for the eigenvalues of the huckel matrices generated within the program.
-Specifically this program allows for energy calculations for a linear molecule of n atoms, a ring of n atoms or a platonic solid where n = 4,6,8,12 or 20.
+Specifically this program allows for energy calculations for a linear molecule of n atoms, a ring of n atoms or a platonic solid where n = 4,6,8,12,20 or 60.
 
 # User input
 There is a basic user interface that requires direct input form the user to specifc the type of polyene to be solved firstly and then the number of atoms in the ployene, there some safeguards to prevent the program form crashing if the user eneters an invalid input for example a letter when an integer was required.
