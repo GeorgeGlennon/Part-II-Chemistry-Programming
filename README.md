@@ -27,9 +27,11 @@ Linear polyene of n = 10 output:
 <img width="862" alt="image" src="https://github.com/user-attachments/assets/1e01da58-2f73-4fc6-9b00-99795359a49a" />
 
 Cyclic polyene of n = 10 output:
+
 <img width="275" alt="image" src="https://github.com/user-attachments/assets/a07931b1-1bb2-4f57-b652-5dec9370c27d" />
 
 Icosahedron output:
+
 <img width="548" alt="image" src="https://github.com/user-attachments/assets/3fb6e4e4-93ba-4bb7-ad9b-8e6ab159a4cd" />
 
 
