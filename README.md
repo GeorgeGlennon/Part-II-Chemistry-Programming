@@ -14,7 +14,10 @@ Numpy
 
 networkx
 
-While numpy and collections are common libraries, networkx is less common and it is used for creating graphs of nodes and edges between nodes which create a network. There are several graphs contained within the library including those for the [platonic solids](https://networkx.org/documentation/stable/reference/generated/networkx.generators.small.icosahedral_graph.html). Using the 'to_numpy_array' fuction from the networkx library the graph of the platonic solid can be represented in matrix form where connections between nodes (or vertices in this case) are represeneted as a 1, these 1 values correspond to the overlap integral 'b' for adjacent atoms in the huckel model.
+While numpy and collections are common libraries, networkx is less common and it is used for creating graphs of nodes and edges between nodes which create a network. There are several graphs contained within the library including those for the [platonic solids](https://networkx.org/documentation/stable/reference/generated/networkx.generators.small.icosahedral_graph.html). Using the 'to_numpy_array' fuction from the networkx library the graph of the platonic solid can be represented in matrix form where connections between nodes (or vertices in this case) are represeneted as a 1, these 1 values correspond to the overlap integral 'b' for adjacent atoms in the huckel model. The buckminsterfullerene graph isn't available in networkx and so the tyhe matrix was constructed from the [graph of the truncated iscoahedron](https://en.wikipedia.org/wiki/Truncated_icosahedron), I decomposed this into 5 cyclic polyenes and hard-coded the links between the rings into the Huckel matrix. Lila Tazi provided some help with the hard-coding of the bridges between rings.
+
+![image](https://github.com/user-attachments/assets/a0647916-6a3f-4aea-aa56-c9e2c4ce6e7e)
+
 
 # Huckel model and its limitations
 
