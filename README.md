@@ -22,3 +22,7 @@ While numpy and collections are common libraries, networkx is less common and it
 
 # Program output
 For the linear polyene the program will output n energies for the chain of n atoms in the units of 'a' and 'b', the ring and platonic solid will output the energies as well as their specificed degeneracies. For calculation of the degeneracies the matrix eigenvalues had to be rounded to 10 d.p. for comparison as there is some computational error beyond this point that would remove te degeneracy.
+
+Linear polyene of n = 10 output:
+<img width="862" alt="image" src="https://github.com/user-attachments/assets/1e01da58-2f73-4fc6-9b00-99795359a49a" />
+
