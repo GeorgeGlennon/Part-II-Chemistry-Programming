@@ -8,8 +8,8 @@ There is a basic user interface that requires direct input form the user to spec
 # Libraries 
 There are a number of basic libraries required for this program, apart for these the program is self contained. Specifically:
 
-Counter from collections
-Numpy
+Counter from collections\n
+Numpy\n
 networkx
 
 While numpy and collections are common libraries, networkx is less common and it is used for creating graphs of nodes and edges between nodes which create a network. There are several graphs contained within the library including those for the [platonic solids](https://networkx.org/documentation/stable/reference/generated/networkx.generators.small.icosahedral_graph.html). Using the 'to_numpy_array' fuction from the networkx library the graph of the platonic solid can be represented in matrix form where connections between nodes (or vertices in this case) are represeneted as a 1, these 1 values correspond to the overlap integral 'b' for adjacent atoms in the huckel model.
