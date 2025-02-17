@@ -24,6 +24,7 @@ curve_fit from scipy.optimize
 The os library allows for interaction with the operating system running the code and for reading and manipulation of files stored on the system.
 
 # Curve fit 
+The lowest energy ooints on the potential energy surface are fir to the following equation:
 
 <img width="207" alt="image" src="https://github.com/user-attachments/assets/9a62d0cd-0398-4e5a-8173-c96a40a24a43" />
 
