@@ -28,6 +28,8 @@ The lowest energy points on the potential energy surface are fit to the followin
 
 <img width="207" alt="image" src="https://github.com/user-attachments/assets/9a62d0cd-0398-4e5a-8173-c96a40a24a43" />
 
+This is the taylor expansion of the molecular energy potential assuming a harmonic potential. This expansion is only valid for bond lengths and angles near the equilibrium thus low energy points are taken.
+
 
 # Program output
 The energy surface polts, energy minima conditions, optimal parameters for curve fitting, vibrational frequencies and plots showing the curve fits are all outputted.
