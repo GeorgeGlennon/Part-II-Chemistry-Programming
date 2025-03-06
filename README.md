@@ -8,6 +8,7 @@ There is no specific user input for this program, rates and starting concentrati
 Two .txt files are needed for this program:
 
 Oregonator.txt
+
 Protein folding.txt
 
 If the code is run in colab the files should be uploaded to the session storage, as this is how the file paths have been written.
