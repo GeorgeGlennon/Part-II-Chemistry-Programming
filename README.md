@@ -29,12 +29,13 @@ Numba speeds up the code by compiling Python functions into highly optimized mac
 
 # Program output
 The program outputs two graphs:
+
 ![image](https://github.com/user-attachments/assets/4d97ed33-0186-4193-a63c-0d7ba29eb2ee)
 
 This shows how the how the equilibrium level of folding of a protein vaires with the concentration of a denaturant.
 
 ![image](https://github.com/user-attachments/assets/5c5fde90-1b2d-4bf5-a3cf-e52db8cc71b2)
 
-This graph shows the evolving concentrations in the Belousov–Zhabotinsky reaction
+This graph shows the evolving concentrations in the Belousov–Zhabotinsky reaction.
 
 
