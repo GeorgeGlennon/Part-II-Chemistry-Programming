@@ -28,6 +28,10 @@ There is a fourth non-standrad library also required:
 
 Numba speeds up the code by compiling Python functions into highly optimized machine code using Just-In-Time (JIT) compilation, eliminating interpreter overhead and enabling fast, vectorized numerical operations. Numba has dramatic results, the oregonator took 1319 seconds to run initially, numba allows the same proces in around 1 second.
 
+# Optimisation
+
+During this task I took a few steps to optimise the code, I pre-computed the exponentials as this saved a significant amount of time and turned out to be the majority of the computational time for each iterative loop for the protein folding. Numpy is written in C and it calls pre-compiled C functions, thus numpy is very fast compared to python and was used when possible. Using classes and functions sped the computational time up ~ 30%. Although numpy is fast for the reasons stated, I found that using numpy arrays as opposed to dictionaires were slower so dictionaires were used as they also allow for easier data management. Based on the thought of numpy being fast beacuse it is pre-compiled I found a library - numba - that pre-compiles the python loop that I am iterating over into machine level code, this proved unbelievably effective and reduced computational times by 3 orders of magnitude.
+
 # Program output
 The program outputs two graphs:
 
