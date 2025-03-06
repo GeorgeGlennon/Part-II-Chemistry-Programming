@@ -5,7 +5,7 @@ This program simulates the folding of a protein in different concentrations of a
 There is no specific user input for this program, rates and starting concentrations can be changed by editing of the .txt files.
 
 # File requirements
-Two .txt files are needed for this program:
+Two .txt files are needed for this program, the code in the program clones this github repo and so they should be successfully retrieved with the correct file paths already in the porgram:
 
 Oregonator.txt
 
