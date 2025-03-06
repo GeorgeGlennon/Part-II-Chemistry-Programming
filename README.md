@@ -15,15 +15,15 @@ If the code is run in colab the files should be uploaded to the session storage,
 # Libraries 
 There are a four required libraries for this program, three of which are standard:
 
-# numpy
+ numpy
 
-# time
+ time
 
-# matplotlib
+ matplotlib
 
 There is a fourth non-standrad library also required:
 
-# numba
+ numba
 
 Numba speeds up the code by compiling Python functions into highly optimized machine code using Just-In-Time (JIT) compilation, eliminating interpreter overhead and enabling fast, vectorized numerical operations. Numba has dramatic results, the oregonator took 1319 seconds to run initially, numba allows the same proces in around 1 second.
 
