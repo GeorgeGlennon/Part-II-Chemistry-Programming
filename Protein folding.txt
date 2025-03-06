@@ -1,0 +1,12 @@
+Concentrations
+D 0.4
+I 0.3
+N 0.3
+
+Rates
+Kf15 26000
+Ku15 6.0*10**-2
+Kf16 730
+Ku16 7.5*10**-4
+
+END
