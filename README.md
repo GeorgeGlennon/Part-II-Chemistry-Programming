@@ -2,6 +2,7 @@
 
 # Required libraries:
 -Numpy
+
 -Tabulate
 
 # Program expected functionality
