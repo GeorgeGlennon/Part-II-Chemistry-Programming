@@ -25,13 +25,14 @@ is more lilely to eascape these local minima but it will never have the exact ge
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/f53180a0-816c-4beb-a69d-372dcbc80b77" />
 Minimum structure form the Lennard-Jones potential
 
+
 <img width="276" alt="image" src="https://github.com/user-attachments/assets/66059153-765d-4d03-90ef-1b6861297f9e" />
 Minimum structure from the Morse potential for re/sigma = 1.0
 
 
-
 <img width="325" alt="image" src="https://github.com/user-attachments/assets/d9e139f1-150d-4376-92f7-09aa116a1a58" />
 Minimum structure from the Morse potential for re/sigma = 1.0
+
 
 <img width="215" alt="image" src="https://github.com/user-attachments/assets/cbce820b-00ba-4688-ae92-9755b186101e" />
 An exampe of a local minimum that the program can converge to, this was from the Lennard_jones potential and had an energy of ~ -15.5 epsilon.
