@@ -24,7 +24,7 @@ is more lilely to eascape these local minima but it will never have the exact ge
 
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/f53180a0-816c-4beb-a69d-372dcbc80b77" />
 Minimum structure form the Lennard-Jones potential
-\n
+<br>
 
 <img width="276" alt="image" src="https://github.com/user-attachments/assets/66059153-765d-4d03-90ef-1b6861297f9e" />
 Minimum structure from the Morse potential for re/sigma = 1.0
