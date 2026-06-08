@@ -39,7 +39,7 @@ Minimum structure from the Morse potential for re/sigma = 3.0
 
 <img width="215" alt="image" src="https://github.com/user-attachments/assets/cbce820b-00ba-4688-ae92-9755b186101e" />
 
-An exampe of a local minimum that the program can converge to, this was from the Lennard-Jones potential and had an energy of ~ -15.5 epsilon.
+An example of a local minimum that the program can converge to, this was from the Lennard-Jones potential and had an energy of ~ -15.5 epsilon.
 
 
 
